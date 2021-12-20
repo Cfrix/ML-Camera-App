@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ML-Camera-App</string>
+    <string name="find_out_later">FIND OUT LAter</string>
+    <string name="imageview">imageView</string>
+    <string name="textview">TextView</string>
+    <string name="capture_image">Capture Image</string>
+</resources>
